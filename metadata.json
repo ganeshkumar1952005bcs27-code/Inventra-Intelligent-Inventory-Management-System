@@ -1,0 +1,5 @@
+{
+  "name": "Inventra - Inventory Management System",
+  "description": "A professional Java-inspired full-stack inventory management system with multi-role access control (Admin, Manager, Staff, Customer).",
+  "requestFramePermissions": []
+}
